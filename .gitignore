@@ -3,3 +3,6 @@ dist/
 .sass-cache/
 *.css.map
 .idea/
+/dist
+/Notes.md
+/.history

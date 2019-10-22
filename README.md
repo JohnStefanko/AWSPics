@@ -1,5 +1,9 @@
 # AWSPics
 
+A fork of AWSPics. I was also looking for an access controlled, serverless photo gallery to share my photos with my friends and family. I've been learning about AWS as well, so finding AWSPics was perfect. I had a few issues doing this from Windows and will try to update the documentation to include what I found. At some point I may like to add some functions to the website as well.
+
+My site: https://redhouse.mx20.com
+
 > An AWS CloudFormation stack to run a serverless password-protected photo
   gallery
 
